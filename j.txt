@@ -1,1 +1,4 @@
 hello
+Wallet address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+Private Key (encrypted): c1Jie3QHpZGFSpLTqY+63y9blJcm83dTt7nTiaVFU14C50dj3VmRdTbwD/3Y7/5T
+Encryption key: (our unique code)
